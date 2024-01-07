@@ -24,7 +24,7 @@ I then added  an IP address range of 10.1.0.0/16:  <br/>
 <br />
 <br />
 and created a subnet named subnet1 with an IP address space of 10.1.0.0/24: <br/>
-<img src="https://i.imgur.com/yDOTxTt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4eX2KDp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 I then reviewed and finished the creation of the virtual network:  <br/>
