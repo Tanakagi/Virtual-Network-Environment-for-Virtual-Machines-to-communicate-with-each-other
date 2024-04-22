@@ -109,10 +109,6 @@ In the settings, I selected Windows Defender Firewall properties:  <br/>
 <img src="https://i.imgur.com/aIKWoAS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- I also changed the private and public firewall state to off:  <br/>
-<img src="https://i.imgur.com/9IeUmYZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
 I then repeated the same tasks mentioned above for vm2.
 From vm2, I opened up PowerShell and ran the ping command, which was a success.:  <br/>
 <img src="https://i.imgur.com/ztX9BeJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
